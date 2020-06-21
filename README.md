@@ -6,18 +6,22 @@
 
 ## 开始制作在线简历
 
-### Step1: Fork本仓库到你自己的Github账户下面。
+### Step1: `Fork`本仓库
+
+按照下面的图片所示位置，Fork此仓库到你自己的Github账户下面。
 
 ![fork](https://cdn.u1.huluxia.com/g4/M02/42/5B/rBAAdl7LRa6ARxB1AAMkKCVXJeM038.jpg)
 
-### Step2: Clone你前一步Fork到你Github下面的仓库到你本地。
+### Step2: `Clone`你的仓库
 
-使用`git clone [respository url]`, 仓库地址如下：
+前一步Fork到你Github下面的仓库到你本地。
+使用`git clone [respository url]`命令，将你前一步Fork到你Github下面的仓库Clone到你本地, 仓库地址如下：
 
 ![git clone](https://cdn.u1.huluxia.com/g4/M03/42/5C/rBAAdl7LRnSAXCh-AAQE8eSkW30591.jpg)
 
-### Step3：进入到你本地仓库的目录，修改配置文件`_config.yml`. 后保存提交到远程仓库。
+### Step3：修改配置
 
+进入到你本地仓库的目录，修改配置文件`_config.yml`. 后保存提交到远程仓库。
 主要修改以下内容：
 
 ```yaml
@@ -43,9 +47,13 @@ degree: 硕士学位
 credential: 英语六级/计算机三级
 ```
 
-### Step4: 进入到你本地仓库的目录，在`index.md`里面书写自己的简历，内容可以包括：基本技能，工作经历，个人特色，完成之后保存提交到远程仓库。
+### Step4: 书写简历
 
-### Step5：打开Github仓库的设置里面，找到`GitHub Pages`设置，选择source为Master branch，选择主题为`Minimal theme`，选择应用该主题即可。
+进入到你本地仓库的目录，在`index.md`里面书写自己的简历，内容可以包括：基本技能，工作经历，个人特色，完成之后保存提交到远程仓库。
+
+### Step5：设置Github Pages
+
+打开Github仓库的设置里面，找到`GitHub Pages`设置，选择source为Master branch，选择主题为`Minimal theme`，选择应用该主题即可。
 
 ![github setting](https://cdn.u1.huluxia.com/g4/M01/42/60/rBAAdl7LSIyAInOuAAKnUzfjVwE878.jpg)
 
@@ -53,6 +61,8 @@ credential: 英语六级/计算机三级
 
 ![github pages theme](https://cdn.u1.huluxia.com/g4/M03/42/62/rBAAdl7LSZqAI3SgAAHuLLyntzA934.jpg)
 
-### Step6: 复制生成的Github pages URL，预览你的简历效果
+### Step6: 访问Github Pages
 
-![github pages url](https://cdn.u1.huluxia.com/g4/M02/42/63/rBAAdl7LSk6AL8eWAAKMCX8cT0M164.jpg)
+复制生成的Github pages URL，预览你的简历效果
+
+![github pages url](https://cdn.u1.huluxia.com/g4/M03/7D/AC/rBAAdl7vaeGAAtzwAAJcrlx9nI0334.jpg)
