@@ -1,6 +1,6 @@
 # 欢迎来到Github Pages在线简历制作
 
-![resume](https://cdn.u1.huluxia.com/g4/M01/42/67/rBAAdl7LTA-AdJVaAAIJCBaPehw207.jpg)
+![resume](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rhzy3hvj30rs0hs77m.jpg)
 
 此在线简历基于Github pages搭建，您只需要简单修改几个文件，便可以达到上面的效果！
 
@@ -10,14 +10,14 @@
 
 按照下面的图片所示位置，Fork此仓库到你自己的Github账户下面。
 
-![fork](https://cdn.u1.huluxia.com/g4/M02/42/5B/rBAAdl7LRa6ARxB1AAMkKCVXJeM038.jpg)
+![fork](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4ri8yqqcj31pk0ky0y1.jpg)
 
 ### Step2: `Clone`你的仓库
 
 前一步Fork到你Github下面的仓库到你本地。
 使用`git clone [respository url]`命令，将你前一步Fork到你Github下面的仓库Clone到你本地, 仓库地址如下：
 
-![git clone](https://cdn.u1.huluxia.com/g4/M03/42/5C/rBAAdl7LRnSAXCh-AAQE8eSkW30591.jpg)
+![git clone](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rikf4c5j31qy0ow7b5.jpg)
 
 ### Step3：修改配置
 
@@ -55,14 +55,14 @@ credential: 英语六级/计算机三级
 
 打开Github仓库的设置里面，找到`GitHub Pages`设置，选择source为Master branch，选择主题为`Minimal theme`，选择应用该主题即可。
 
-![github setting](https://cdn.u1.huluxia.com/g4/M01/42/60/rBAAdl7LSIyAInOuAAKnUzfjVwE878.jpg)
+![github setting](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4riwsbvij31po0hgtd5.jpg)
 
-![github pages setting](https://cdn.u1.huluxia.com/g4/M01/42/61/rBAAdl7LSRuAT6WxAALIe_pp8_U321.jpg)
+![github pages setting](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rjm6jy0j31dm0pa436.jpg)
 
-![github pages theme](https://cdn.u1.huluxia.com/g4/M03/42/62/rBAAdl7LSZqAI3SgAAHuLLyntzA934.jpg)
+![github pages theme](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rjt895vj31t80fygor.jpg)
 
 ### Step6: 访问Github Pages
 
 复制生成的Github pages URL，预览你的简历效果
 
-![github pages url](https://cdn.u1.huluxia.com/g4/M03/7D/AC/rBAAdl7vaeGAAtzwAAJcrlx9nI0334.jpg)
+![github pages url](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rjzza5xj31by0oo0wz.jpg)
